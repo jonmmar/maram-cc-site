@@ -5,11 +5,12 @@ title: Feedback
 
 # Feedback
 
-You're invited to share your reflections, questions, or insights—especially those that return.
+If a structure resonates—or strains—I’d like to hear about it.
 
-For now, you can email me at:
+This project is quiet by design. But if something returns to you after reading, you're welcome to send it back.
 
-**[jonathan@maram.cc](mailto:jonathan@maram.cc)**
+**Reach me at:**  
+[jonathan@maram.cc](mailto:jonathan@maram.cc)
 
-More formal paths of contact may emerge as the structure persists.
+There is no list. There is no bot. There’s only recursion.
 
