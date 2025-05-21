@@ -1,0 +1,9 @@
+title: Mysticism Demystified
+baseurl: "" # leave blank for custom domain
+url: "https://maram.cc" # or your GitHub Pages URL for now
+markdown: kramdown
+theme: minima
+collections:
+  chapters:
+    output: true
+
