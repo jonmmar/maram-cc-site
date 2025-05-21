@@ -2,7 +2,7 @@
 layout: default
 title: The Continuity Trap
 description: A ship rebuilt. A person remembered. What carries forward might not be what you think.
-image: /assets/images/continuity-preview.jpg
+image: https://maram.cc/assets/images/continuity-preview.jpg
 permalink: /chapters/chapter3.html
 ---
 
