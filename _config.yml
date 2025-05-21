@@ -6,4 +6,5 @@ theme: minima
 collections:
   chapters:
     output: true
+    permalink: /chapters/:name.html
 
