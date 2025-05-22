@@ -2,6 +2,8 @@
 layout: default
 title: Mysticism Demystified
 description: A structural journey through perception, identity, and the nature of reality.
+image: https://maram.cc/assets/images/default-preview.jpg
+permalink: /index.html
 ---
 
 # 🧭 Mysticism Demystified
@@ -48,5 +50,6 @@ Curious about the sources, paradoxes, and scientists we reference?
 ## 📬 Stay in Touch
 
 - Send reflections or questions → [Feedback](./feedback.html)
-- Subscribe (soon) for updates and new chapters
+- Subscribe for updates and new chapters
+🔔 [Subscribe](./subscribe.html)
 
