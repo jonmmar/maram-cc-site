@@ -9,4 +9,14 @@ collections:
     permalink: /chapters/:name.html
 plugins:
   - jekyll-feed
+defaults:
+  - scope:
+      path: "_chapters"
+    values:
+      layout: default
+
+feed:
+  path: feed.xml
+  collections:
+    - chapters
 

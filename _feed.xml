@@ -1,0 +1,26 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }}</title>
+  <link href="{{ site.url }}/feed.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/</id>
+  <author>
+    <name>Jonathan Maram</name>
+  </author>
+
+  {% assign sorted_chapters = site.chapters | sort: 'date' | reverse %}
+  {% for entry in sorted_chapters %}
+    <entry>
+      <title>{{ entry.title | xml_escape }}</title>
+      <link href="{{ site.url }}{{ entry.url }}"/>
+      <updated>{{ entry.date | date_to_xmlschema }}</updated>
+      <id>{{ site.url }}{{ entry.url }}</id>
+      <content type="html">{{ entry.content | xml_escape }}</content>
+    </entry>
+  {% endfor %}
+</feed>
+
