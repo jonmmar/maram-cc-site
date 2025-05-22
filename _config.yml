@@ -7,4 +7,6 @@ collections:
   chapters:
     output: true
     permalink: /chapters/:name.html
+plugins:
+  - jekyll-feed
 
