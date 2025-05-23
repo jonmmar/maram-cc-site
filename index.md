@@ -53,3 +53,11 @@ Curious about the sources, paradoxes, and scientists we reference?
 - Subscribe for updates and new chapters
 🔔 [Subscribe](./subscribe.html)
 
+---
+
+## Who is behind this?
+
+**Jonathan Maram** is a physicist, engineer, and recursive thinker whose work spans from space systems to structural itness. His writing explores what makes something real—not just spiritually, but structurally.
+
+🔎 [Learn more about the author →](/about)
+
