@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Feedback
+permalink: /feedback/
 ---
 
 # Feedback

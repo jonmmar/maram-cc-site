@@ -4,6 +4,8 @@ title: The Continuity Trap
 description: A ship rebuilt. A person remembered. What carries forward might not be what you think...
 image: https://maram.cc/assets/images/continuity-preview.jpg
 permalink: /chapters/chapter3.html
+date: 2024-11-01
+last_modified_at: 2025-05-21
 ---
 
 # 🌀 The Continuity Trap

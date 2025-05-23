@@ -2,7 +2,7 @@
 layout: default
 title: References
 description: Citations and works referenced in Mysticism Demystified and related essays.
-permalink: /references.html
+permalink: /references/
 ---
 
 # 📚 References
