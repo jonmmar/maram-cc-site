@@ -2,10 +2,12 @@
 layout: default
 title: Acknowledged Sources of Structure
 permalink: /influences/
+description: A curated list of philosophers, scientists, and theorists who influenced the recursive structure of Mysticism Demystified — including Friston, Dennett, Tegmark, Metzinger, and Shannon.
 ---
-# Acknowledged Sources of Structure
 
-The thinkers listed below have each contributed to the structure of *Mysticism Demystified*. Some are quoted directly, others are echoed or reframed, but all helped shape the recursive field that this book explores. These are not formal citations, but recognitions of influence—each paired with a representative passage from the manuscript.
+The thinkers below helped shape the conceptual and recursive framework of *Mysticism Demystified*. Some are quoted directly. Others are echoed, reframed, or gently contradicted. Together, they form a lineage of influence drawn from philosophy of mind, cognitive science, systems theory, quantum field theory, and structural realism.
+
+This is not a list of citations. It’s a record of conceptual reinforcement — a map of the patterns that returned.
 
 ## Ludwig Boltzmann
 Ludwig Boltzmann connected entropy to probability. Entropy, he said, is not a substance, it’s a count. It tells you how likely a macro-state is, based on the arrangement of its micro-parts. A cold spot in a hot room isn’t impossible. It’s just improbable. The Second Law doesn’t forbid reversal. It makes it vanishingly rare.
@@ -134,7 +136,8 @@ Hilary Putnam, in his challenge to the “brain in a vat” thought experiment, 
 In 1986, Craig Reynolds introduced a deceptively simple model of flocking behavior. His simulated creatures—called boids—followed three rules: separation, alignment, and cohesion. From this, coordinated movement emerged. No boid had a map. No overseer choreographed the dance. Structure arose from interaction alone.
 
 ## Eleanor Rosch
-Why do we insist on calling clouds and waves “things”?  Why are we so quick to treat structure as identity in the first place? Part of the answer lies in how the mind forms categories.  One answer comes from cognitive science and the psychology of categorization. In the 1970s, psychologist Eleanor Rosch studied how people form categories. She found that we don’t usually rely on strict definitions. Instead, we use prototypes, central examples that help anchor our recognition. A robin is more “birdy” than a penguin. A chair is more prototypical than a beanbag.
+Why do we insist on calling clouds and waves “things”?  Why are we so quick to treat structure as identity in the first place? Part of the answer lies in how the mind forms categories.  One answer comes from cognitive science and the psychology of categorization. In the 1970s, psychologist Eleanor Rosch studied how people form categories. She found that we don’t usually rely on strict definitions. Instead, we use prototypes, central examples that help anchor our recognition. A robin is more “birdy” than a penguin. A chair is more prototypical than a bean
+.
 
 ## Jean-Paul Sartre
 Philosopher Jean-Paul Sartre declared that we are “condemned to be free”, not because we are unshackled, but because we cannot escape consequence. The Stoics taught that true freedom is found in aligning with what endures, not in resisting what constrains. The Bhagavad Gita counsels that liberation is not detachment from action, but action performed with integrity and without self-attachment. The Mosaic concept of covenant frames freedom not as license, but as responsibility in relationship.
