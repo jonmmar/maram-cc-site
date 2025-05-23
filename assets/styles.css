@@ -1,3 +1,31 @@
+<div class="nav-wrapper">
+ .nav-wrapper {
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem; /* space between items */
+}
+
+.site-nav li {
+  display: inline;
+}
+
+.site-nav a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+</div>
 body {
   font-family: Georgia, serif;
   font-size: 1.1rem;
@@ -34,4 +62,4 @@ footer {
   opacity: 0.6;
   text-align: center;
 }
-
+ 
