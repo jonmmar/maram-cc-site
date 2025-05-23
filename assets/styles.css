@@ -64,4 +64,27 @@ footer {
   opacity: 0.6;
   text-align: center;
 }
+.site-nav ul {
+  display: flex;
+  flex-wrap: wrap;     /* ✅ Prevents horizontal overflow */
+  gap: 1rem;            /* Adds spacing between nav items */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  justify-content: center; /* Optional: centers nav items */
+}
+
+.site-nav li a {
+  display: block;
+  padding: 0.5em;
+  text-decoration: none;
+}
+
+/* Optional: Adjust spacing or font size on smaller screens */
+@media (max-width: 600px) {
+  .site-nav ul {
+    gap: 0.5rem;
+    font-size: 0.95rem;
+  }
+}
 
