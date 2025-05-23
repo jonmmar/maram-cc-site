@@ -4,9 +4,11 @@
   {% include head.html %}
 </head>
 <body>
-  <main>
-    {{ content }}
+  {% include header.html %}
+  <main class="page-content" aria-label="Content">
+      {{ content }}
   </main>
+  {% include footer.html %}
 </body>
 </html>
 
