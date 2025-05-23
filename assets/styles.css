@@ -1,5 +1,5 @@
-<div class="nav-wrapper">
- .nav-wrapper {
+/* ✅ This is valid CSS — no HTML tags allowed here */
+.nav-wrapper {
   padding: 1rem 2rem;
   text-align: center;
 }
@@ -9,7 +9,8 @@
   margin: 0;
   padding: 0;
   display: flex;
-  gap: 1.5rem; /* space between items */
+  justify-content: center;  /* optionally center the nav */
+  gap: 1.5rem;
 }
 
 .site-nav li {
@@ -25,7 +26,8 @@
 .site-nav a:hover {
   text-decoration: underline;
 }
-</div>
+
+/* Existing body and typography styles */
 body {
   font-family: Georgia, serif;
   font-size: 1.1rem;
@@ -62,4 +64,4 @@ footer {
   opacity: 0.6;
   text-align: center;
 }
- 
+
