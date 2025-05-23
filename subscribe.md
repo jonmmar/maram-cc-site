@@ -2,7 +2,7 @@
 layout: default
 title: Subscribe
 description: Stay updated on new chapters from Mysticism Demystified.
-permalink: /subscribe.html
+permalink: /subscribe/
 ---
 
 # 📬 Subscribe
