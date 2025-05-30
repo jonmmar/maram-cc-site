@@ -7,10 +7,7 @@ description: A directory of selected chapters from Mysticism Demystified — on 
 
 Below are selected chapter previews from *Mysticism Demystified*:
 
-<ul>
-  {% for chapter in site.chapters %}
-    {% unless chapter.url == '/chapters/' %}
-      <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
-    {% endunless %}
-  {% endfor %}
-</ul>
+- [Chapter 1: The Question That Won’t Stay Quiet](chapter1.html)
+- [Chapter 2: Seeing Things That Aren’t There (And Missing What Is)](chapter2.html)
+- [Chapter 3: The Continuity Trap](chapter3.html)
+
