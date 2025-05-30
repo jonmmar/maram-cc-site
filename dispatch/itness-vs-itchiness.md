@@ -4,6 +4,6 @@ date: 2025-06-03
 permalink: /dispatch/itness-vs-itchiness
 ---
 
-A light diversion. Some thoughts on the embodied feel of structure, coherence, and the mystery of “chi.”
+A light diversion. Some thoughts on the embodied feel of structure, coherence, and the mystery of “chi” — mathematical, neurological, or mystical.
 
 🔗 [Read the full post →](/reverie/itchiness.html)
