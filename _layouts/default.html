@@ -10,13 +10,19 @@
       {{ content }}
   </main>
   {% include footer.html %}
+<!-- Custom internal visit tracker for Plausible -->
 <script>
-  const params = new URLSearchParams(window.location.search);
-  if (params.get("visit") === "me") {
-    if (typeof plausible === "function") {
-      plausible("internal_visit", { props: { who: "author" } });
+  window.onload = function () {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("visit") === "me") {
+      console.log("Internal visit tag checked");
+      if (typeof plausible === "function") {
+        plausible("internal_visit", { props: { who: "author" } });
+      } else {
+        console.log("Plausible not yet available");
+      }
     }
-  }
+  };
 </script>
   
 </body>
