@@ -1,14 +1,8 @@
 ---
-layout: default
 title: Mysticism Demystified
 description: A structural journey through perception, identity, and the nature of reality.
-image: https://maram.cc/assets/images/default-preview.jpg
-permalink: /index.html
+image: /assets/images/default-preview.jpg
 ---
-
-# 🧭 Mysticism Demystified
-
-A quiet but radical question guides this book:
 
 **What makes something real enough to count?**
 
@@ -18,16 +12,14 @@ We follow that question across perception, identity, memory, and coherence—unp
 
 ## 🌀 Featured Chapter
 
-### [Chapter 3 → The Continuity Trap](/chapters/chapter3.html)
+### [Chapter 2 → Seeing Things That Aren’t There (And Missing What Is)](/chapters/chapter2.html)
 
-A ship rebuilt plank by plank.  
-A person remembering themselves.  
-What makes you still you?
+Blind spots. Phantom limbs. Consensus hallucinations.
 
-This chapter traces the illusion of sameness—and how recursive coherence builds what we call identity.  
-It’s not about staying the same. It’s about **persisting just enough** to still count.
+This chapter explores the mind’s uncanny power to invent edges, fill in gaps, and overwrite uncertainty with certainty.  
+What do we see that isn’t there—and what might we be missing that is?
 
-🧠 [Read Chapter 3 →](./chapters/chapter3.html)
+🧠 [Read Chapter 2 →](/chapters/chapter2.html)
 
 ---
 
@@ -39,7 +31,15 @@ If you'd prefer to follow the arc from the first question:
 
 ---
 
-## 📚 Reference List
+## 📚 Chapters Index
+
+Want to explore more chapters, or see what’s next?
+
+📖 [Browse All Chapters →](/chapters/index.html)
+
+---
+
+## 🧠 References & Sources
 
 Curious about the sources, paradoxes, and scientists we reference?
 
@@ -50,7 +50,7 @@ Curious about the sources, paradoxes, and scientists we reference?
 ## 📬 Stay in Touch
 
 - Send reflections or questions → [Feedback](./feedback.html)
-- Subscribe for updates and new chapters
+- Subscribe for updates and new chapters  
 🔔 [Subscribe](./subscribe.html)
 
 ---
@@ -60,4 +60,3 @@ Curious about the sources, paradoxes, and scientists we reference?
 **Jonathan Maram** is a physicist, engineer, and recursive thinker whose work spans from space systems to structural itness. His writing explores what makes something real—not just spiritually, but structurally.
 
 🔎 [Learn more about the author →](/about)
-
