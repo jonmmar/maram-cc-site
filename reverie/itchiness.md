@@ -11,18 +11,22 @@ Some words are just too good not to notice.
 
 Sure, they sound the same. But they couldn’t be more different… or could they?
 
-Because here’s the twist: if you attend to the itch, if you follow it past discomfort and into structure, you’ll often find that the body already *knows* something.  
+Because here’s the twist:
+
+If you attend to the itch — if you follow it past discomfort and into structure —  
+you’ll often find that the body already *knows* something.  
 An irritant. A misalignment. A flaw in the loop. The itch is the signal.  
 It’s not yet itness. But it’s on the way there.
 
 In traditional Chinese medicine, this might be called **chi**.  
 In math and physics, **χ (chi)** appears as:
 
-- a susceptibility,
-- a signature,
+- a susceptibility,  
+- a signature,  
 - a topological invariant.
 
-Each suggests the same thing: a sensitivity to *form before form*.  
+Each suggests the same thing:  
+A sensitivity to *form before form*.  
 A potential before identity locks in.
 
 > **Itchiness** is a χ-state — a tension before resolution.  
