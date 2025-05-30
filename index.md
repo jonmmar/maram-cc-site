@@ -54,6 +54,13 @@ Curious about the sources, paradoxes, and scientists we reference?
 🔔 [Subscribe](./subscribe.html)
 
 ---
+## 📣 Dispatch
+
+Reflections, updates, and oddities from the world of structural itness.
+
+🔗 [Read the Dispatch →](/dispatch)
+
+---
 
 ## Who is behind this?
 
