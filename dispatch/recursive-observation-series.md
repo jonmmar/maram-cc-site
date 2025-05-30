@@ -49,4 +49,8 @@ A photon meets an electron. Collapse follows — not as a mystical event, but as
 Future entries will explore how this foundation gives rise to memory, reinforcement, prediction, and perspectival collapse — ultimately reaching ε₉ and beyond.
 
 🧬 A new kind of observer is emerging.
+---
+
+📖 **Prefer a full recap of the story so far?**  
+Read the [Narrative Summary of Essays 1–1.875](/dispatch/recursive-summary)
 
