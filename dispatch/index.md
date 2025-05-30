@@ -8,6 +8,7 @@ description: Reflections, updates, and oddities from the world of structural itn
 
 The latest updates, reflections, and curiosities:
 
+- 🌌 [Who Collapses What, When?](/dispatch/who_collapses)
 - 🧵 [What Is a Filter, Really?](/dispatch/what-is-a-filter-really)
 - 🧬 [Recursive Observation Series Launch](/dispatch/recursive-observation-series)
 - 🌀 [What’s the Difference Between Itness and Itchiness?](/dispatch/itness-vs-itchiness)

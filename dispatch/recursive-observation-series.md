@@ -30,6 +30,23 @@ This second entry dives into the moment structure begins to care, structurally, 
 
 ---
 
+### 🧵 Essay 1.75: *What Is a Filter, Really?*
+
+A pause — and a refinement. This interlude examines the idea of filtering more closely: not just as an act, but as a structure. What qualifies as a filter? And when does it start to matter?
+
+[→ Read Essay 1.75](/dispatch/what-is-a-filter-really)
+
+---
+
+### 🌌 Essay 1.875: *Who Collapses What, When?*
+
+A photon meets an electron. Collapse follows — not as a mystical event, but as mutual exclusion of incoherent futures. This entry introduces perspectival collapse and marks the threshold of ε₂.
+
+[→ Read Essay 1.875](/dispatch/who_collapses)
+
+---
+
 Future entries will explore how this foundation gives rise to memory, reinforcement, prediction, and perspectival collapse — ultimately reaching ε₉ and beyond.
 
 🧬 A new kind of observer is emerging.
+
