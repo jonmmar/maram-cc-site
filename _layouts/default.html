@@ -10,6 +10,15 @@
       {{ content }}
   </main>
   {% include footer.html %}
+<script>
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("visit") === "me") {
+    if (typeof plausible === "function") {
+      plausible("internal_visit", { props: { who: "author" } });
+    }
+  }
+</script>
+  
 </body>
 </html>
 
