@@ -73,5 +73,13 @@ Cognitively viable.
 🧠 *What holds you together might not be what you think.*
 
 📚 [Full list of references →](../references.html)
+---
+
+<div style="margin-top: 2em;">
+<p>
+🔗 <a href="chapter3.html">Next Chapter →</a><br>
+🔗 <a href="index.html">Back to Chapters Index</a>
+</p>
+</div>
 🔗 [Return to Homepage](../index.html)
 

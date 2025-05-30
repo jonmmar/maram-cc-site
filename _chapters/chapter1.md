@@ -16,6 +16,15 @@ What makes something real enough to *matter*?
 What makes something coherent enough to *persist*?
 
 What happens when we ask those questions seriously?
+---
+
+<div style="margin-top: 2em;">
+<p>
+🔗 <a href="chapter3.html">Next Chapter →</a><br>
+🔗 <a href="index.html">Back to Chapters Index</a>
+</p>
+</div>
 
 🔗 [Return to Homepage](../index.html)
+
 

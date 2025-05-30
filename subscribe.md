@@ -18,6 +18,9 @@ If you'd like to receive chapter announcements or reflections in your inbox:
 👉 [Join the mailing list](https://buttondown.com/maramcc)  
 *One email per chapter. No spam. No algorithms.*
 
+The first dispatch is live:  
+🧾 [“Influence? I prefer recursive reinforcement.”](https://buttondown.com/maramcc/archive/influence-i-prefer-recursive-reinforcement/)
+
 ---
 
 ## 📡 RSS / Atom Feed

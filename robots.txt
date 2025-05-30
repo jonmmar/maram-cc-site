@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /_*
+
+Sitemap: https://maram.cc/sitemap.xml
