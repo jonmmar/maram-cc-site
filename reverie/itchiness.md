@@ -18,7 +18,7 @@ you’ll often find that the body already *knows* something.
 An irritant. A misalignment. A flaw in the loop. The itch is the signal.  
 It’s not yet itness. But it’s on the way there.
 
-In traditional Chinese medicine, this might be called **chi**.  
+In traditional Chinese medicine, this might be called qi or **chi**.  
 In math and physics, **χ (chi)** appears as:
 
 - a susceptibility,  
