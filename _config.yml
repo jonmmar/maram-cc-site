@@ -17,6 +17,8 @@ defaults:
 
 feed:
   path: feed.xml
-  collections:
-    - chapters
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:name
 
