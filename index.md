@@ -19,7 +19,7 @@ Blind spots. Phantom limbs. Consensus hallucinations.
 This chapter explores the mind’s uncanny power to invent edges, fill in gaps, and overwrite uncertainty with certainty.  
 What do we see that isn’t there—and what might we be missing that is?
 
-🧠 [Read Chapter 2 →](/chapters/chapter2.html)
+🧠 [Read Chapter 2 preview →](/chapters/chapter2.html)
 
 ---
 
@@ -27,7 +27,7 @@ What do we see that isn’t there—and what might we be missing that is?
 
 If you'd prefer to follow the arc from the first question:
 
-👉 [Chapter 1 → The Question That Won’t Stay Quiet](/chapters/chapter1.html)
+👉 [Chapter 1 preview → The Question That Won’t Stay Quiet](/chapters/chapter1.html)
 
 ---
 
@@ -35,7 +35,7 @@ If you'd prefer to follow the arc from the first question:
 
 Want to explore more chapters, or see what’s next?
 
-📖 [Browse All Chapters →](/chapters/index.html)
+📖 [Browse All Chapter previews →](/chapters/index.html)
 
 ---
 
