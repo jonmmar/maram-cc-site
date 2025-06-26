@@ -1,14 +1,18 @@
 title: Mysticism Demystified
 baseurl: "" # leave blank for custom domain
-url: "https://maram.cc" # or your GitHub Pages URL for now
+url: "https://maram.cc"
+
 markdown: kramdown
-theme: minima
+theme: null  # You are overriding the theme with a custom layout
+
 collections:
   chapters:
     output: true
     permalink: /chapters/:name.html
+
 plugins:
   - jekyll-feed
+
 defaults:
   - scope:
       path: "_chapters"
@@ -17,8 +21,4 @@ defaults:
 
 feed:
   path: feed.xml
-collections:
-  chapters:
-    output: true
-    permalink: /chapters/:name
 
