@@ -8,6 +8,9 @@ description: Reflections, updates, and oddities from the world of structural itn
 
 The latest updates, reflections, and curiosities:
 
+> **Welcome to new explorers:**  
+> If you’re reading this in the site’s earliest days, know you’re ahead of the crowd. Experiments, essays, and surprises are taking shape behind the scenes—thanks for wandering in early.
+
 - 🧬 [Recursive Observation Series Launch](/dispatch/recursive-observation-series)
   - The official kickoff: essays on structure, observation, and recursive constraint.
 
@@ -43,4 +46,7 @@ The latest updates, reflections, and curiosities:
 
 - 🦉 [Ratiocination, or Rationalization?](/dispatch/ratiocination_vs_rationalization)
   - Why cleverness is not enough: the ancient and modern trap of intelligence turned to self-justification. Featuring Bacon, James, and recent cognitive science.
+  
+  > **What’s next?**  
+> New features (some playful, some philosophical) are on the way. Stay tuned—and if you’re the site’s first mysterious subscriber, thank you for your curiosity.
 
