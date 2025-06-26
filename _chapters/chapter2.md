@@ -1,5 +1,5 @@
 ---
-title: Chapter 2: Seeing Things That Aren’t There (And Missing What Is)
+title: "Chapter 2: Seeing Things That Aren’t There (And Missing What Is)"
 description: What if most of what we see was never there at all? This chapter explores the mind’s power to invent edges, fill gaps, and miss the obvious.
 permalink: /chapters/chapter2.html
 ---
