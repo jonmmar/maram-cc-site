@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Mysticism Demystified
 description: A structural journey through perception, identity, and the nature of reality.
 image: /assets/images/default-preview.jpg
