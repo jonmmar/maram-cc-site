@@ -2,6 +2,7 @@
 title: Dispatch — Updates from the World of Structural Itness
 permalink: /dispatch/index.html
 description: Updates, essays, and observations on recursive constraint, coherence, and the strange structures that persist. From the logic of filtering to quantum paradoxes—Dispatch explores what reality permits.
+layout: default
 ---
 
 ## 🗓️ Dispatch

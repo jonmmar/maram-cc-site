@@ -41,6 +41,18 @@ Want to explore more chapters, or see what’s next?
 
 ---
 
+## 📣 Dispatch
+
+Reflections, experiments, and paradox samplers from the world of structural itness.
+
+The book builds the framework — but **Dispatch** is where the side quests unfold.  
+Recent essays explore irreversibility, quantum trickery, and the cost of forgetting.
+
+🧩 [Start with: The Price of Forgetting →](/dispatch/price_of_forgetting.html)  
+📖 [Browse the full Dispatch →](/dispatch)
+
+---
+
 ## 🧠 References & Sources
 
 Curious about the sources, paradoxes, and scientists we reference?
@@ -56,16 +68,10 @@ Curious about the sources, paradoxes, and scientists we reference?
 🔔 [Subscribe](./subscribe.html)
 
 ---
-## 📣 Dispatch
-
-Reflections, updates, and oddities from the world of structural itness.
-
-🔗 [Read the Dispatch →](/dispatch)
-
----
 
 ## Who is behind this?
 
 **Jonathan Maram** is a physicist, engineer, and recursive thinker whose work spans from space systems to structural itness. His writing explores what makes something real—not just spiritually, but structurally.
 
 🔎 [Learn more about the author →](/about)
+
