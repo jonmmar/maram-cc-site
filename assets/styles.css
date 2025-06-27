@@ -1,90 +1,110 @@
-/* ✅ This is valid CSS — no HTML tags allowed here */
-.nav-wrapper {
-  padding: 1rem 2rem;
-  text-align: center;
-}
-
-.site-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;  /* optionally center the nav */
-  gap: 1.5rem;
-}
-
-.site-nav li {
-  display: inline;
-}
-
-.site-nav a {
-  text-decoration: none;
-  font-weight: 500;
-  color: #333;
-}
-
-.site-nav a:hover {
-  text-decoration: underline;
-}
-
-/* Existing body and typography styles */
 body {
   font-family: Georgia, serif;
   font-size: 1.1rem;
   line-height: 1.7;
-  max-width: 720px;
+  max-width: 860px;  /* Increased from 720px */
   margin: 4rem auto;
-  padding: 0 1rem;
+  padding: 0 1.25rem;
   background-color: #fafafa;
   color: #222;
 }
 
-h1, h2, h3 {
-  font-family: 'Georgia', serif;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  line-height: 1.2;
-}
-
 a {
-  color: #3a5c8c;
+  color: #005599;
   text-decoration: none;
-  border-bottom: 1px solid rgba(58, 92, 140, 0.2);
 }
 
 a:hover {
-  border-bottom-color: #3a5c8c;
+  text-decoration: underline;
 }
 
-footer {
-  margin-top: 4rem;
-  padding-top: 1rem;
-  border-top: 1px solid #ccc;
-  font-size: 0.9rem;
-  opacity: 0.6;
-  text-align: center;
+h1, h2, h3, h4 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  line-height: 1.3;
 }
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.75rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+blockquote {
+  margin-left: 1.5rem;
+  padding-left: 1rem;
+  border-left: 4px solid #ccc;
+  color: #555;
+  font-style: italic;
+}
+
+pre {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  font-family: monospace;
+  background-color: #f4f4f4;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+}
+
+header, footer {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+/* NAVIGATION */
+
 .site-nav ul {
   display: flex;
-  flex-wrap: wrap;     /* ✅ Prevents horizontal overflow */
-  gap: 1rem;            /* Adds spacing between nav items */
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
   padding: 0;
   margin: 0;
   list-style: none;
-  justify-content: center; /* Optional: centers nav items */
+  font-size: 0.95rem; /* Slightly smaller */
 }
 
 .site-nav li a {
   display: block;
-  padding: 0.5em;
-  text-decoration: none;
+  padding: 0.4em 0.6em; /* Reduced padding */
 }
 
-/* Optional: Adjust spacing or font size on smaller screens */
-@media (max-width: 600px) {
+/* RESPONSIVE NAV SCROLLING ON SMALL DEVICES */
+
+@media (max-width: 500px) {
   .site-nav ul {
-    gap: 0.5rem;
-    font-size: 0.95rem;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
+}
+
+/* Images and media */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
 }
 
