@@ -1,6 +1,6 @@
 ---
 title: Summary of the Recursive Observation Series (Essays 0–3)
-description: A narrative overview of the Recursive Observation Series, tracing the emergence of constraint, recursive filtering, perspectival collapse, paradox, and the arrow of memory.
+description: An overview of Essays 0–3 in the Recursive Observation Series — from the origin of constraint and filtering to paradox collapse, memory, and the arrow of time. A ladder of structure emerges.
 date: 2025-06-09
 permalink: /dispatch/recursive-summary
 ---
@@ -59,4 +59,9 @@ At this point in the series, we have built:
 
 The path ahead leads toward the modeling of interaction, reinforcement, and predictive persistence. The recursive observer is no longer alone. Structure remembers—and the ladder continues upward.
 
+---
 
+#### Essay 3.5: The Price of Forgetting — Paradoxes of Memory and Collapse*
+Even after memory and irreversibility are grounded in constraint logic, paradox lingers. Why can’t entropy run backwards? What really disappears in a black hole? This essay confronts the most persistent puzzles—Maxwell’s demon, Landauer’s principle, the information paradox—and reframes them not as violations of natural law, but as illusions born from treating memory as a “thing” rather than a pattern of structural constraint. Irreversibility is shown to be a recursive narrowing of viable futures. What survives is not what escapes collapse, but what can no longer be undone.
+
+---

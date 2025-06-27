@@ -1,11 +1,12 @@
 ---
 layout: default
 title: The Question That Won’t Stay Quiet
-description: What makes something real enough to matter? The book begins here.
+description: Chapter 1 of Mysticism Demystified. What makes something real enough to matter? Explore the structural roots of coherence, persistence, and the quiet origin of physicality.
 image: https://maram.cc/assets/images/default-preview.jpg
 date: 2024-11-01
 last_modified_at: 2025-05-21
 ---
+
 
 # 🧭 The Question That Won’t Stay Quiet
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Continuity Trap
-description: A ship rebuilt. A person remembered. What carries forward might not be what you think...
+description: Chapter 3 of Mysticism Demystified. What makes you the same across time? From the Ship of Theseus to cognitive loops and heap illusions, this chapter explores recursive coherence and the structure of self.
 image: https://maram.cc/assets/images/continuity-preview.jpg
 permalink: /chapters/chapter3.html
 date: 2024-11-01

@@ -4,6 +4,7 @@ title: Mysticism Demystified — Constraint-First Physics, Structural Memory, an
 description: Essays on perception, identity, and the structure of reality — rigorous, grounded, and free of highfalutin handwaving. Recursive reinforcement, the constraint arrow of time, and mysticism demystified by structure.
 image: /assets/images/default-preview.jpg
 ---
+Mysticism Demystified explores how structure, not story, gives rise to what we call real. If you’ve ever questioned perception, causality, or the strange persistence of consciousness, this project builds a structural path through the paradox. No mysticism. No handwaving. Just recursion, coherence, and constraint.
 
 **What makes something real enough to count?**
 

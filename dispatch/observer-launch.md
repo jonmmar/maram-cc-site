@@ -2,6 +2,7 @@
 title: The Observer Was Never Missing
 date: 2025-05-28
 permalink: /dispatch/observer-launch
+description: What does it mean to observe in a universe without minds? Part 1 of the Recursive Observation Series begins at the threshold — where structure witnesses itself before awareness ever appears.
 ---
 
 Part 1 of the Recursive Observation Series is now live.

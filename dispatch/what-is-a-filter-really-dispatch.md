@@ -1,6 +1,6 @@
 ---
 title: What Is a Filter, Really?
-description: Essay 1.75 of the Recursive Observation Series — exploring how structural filtering arises before mind or meaning.
+description: A teaser for Essay 1.75 in the Recursive Observation Series — exploring how structural filtering arises before memory, meaning, or awareness. How does bias begin without a mind?
 date: 2025-06-01
 permalink: /dispatch/what-is-a-filter-really-dispatch.html
 ---

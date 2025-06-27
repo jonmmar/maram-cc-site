@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Chapters
+title: Chapters — Mysticism Demystified
 permalink: /chapters/
-description: A directory of selected chapters from Mysticism Demystified — on perception, identity, structure, and self.
+description: A curated directory of chapters from Mysticism Demystified — exploring perception, identity, recursive structure, and the foundations of self and reality.
 ---
 
 Below are selected chapter previews from *Mysticism Demystified*:
