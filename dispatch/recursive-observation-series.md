@@ -77,6 +77,11 @@ How does memory begin? What makes time irreversible? This essay shows how memory
 
 ---
 
+### 🧩 Essay 3.5: The Price of Forgetting — Paradoxes of Memory and Collapse*
+Even after memory and irreversibility are grounded in constraint logic, paradox lingers. Why can’t entropy run backwards? What really disappears in a black hole? This essay confronts the most persistent puzzles—Maxwell’s demon, Landauer’s principle, the information paradox—and reframes them not as violations of natural law, but as illusions born from treating memory as a “thing” rather than a pattern of structural constraint. Irreversibility is shown to be a recursive narrowing of viable futures. What survives is not what escapes collapse, but what can no longer be undone.
+
+---
+
 **Future directions:**  
 Upcoming essays will explore how constraint gives rise to paradox, memory, reinforcement, and ultimately prediction—leading toward ε₉ and the possibility of observers who model not just what is, but what could be.
 
