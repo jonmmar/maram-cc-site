@@ -92,7 +92,7 @@ Upcoming essays will explore how constraint gives rise to paradox, memory, reinf
 ---
 
 📖 **Want a story-style recap of the sequence so far?**  
-Read the [Narrative Summary of Essays 0–3](/dispatch/recursive-summary)
+Read the [Narrative Summary of Essays 0–3,5](/dispatch/recursive-summary)
 
 Or return to the [Dispatch Essay Index](/dispatch/index.html)
 
