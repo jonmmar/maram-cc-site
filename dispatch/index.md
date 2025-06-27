@@ -37,8 +37,7 @@ The latest updates, reflections, and curiosities:
 
 - 🕰️ [Deepening into ε₂ — Memory, Irreversibility, and the Arrow of Constraint](/dispatch/arrow_of_constraint)
   - How memory and the arrow of time emerge from structural necessity.
-  
-- 🧩 The Price of Forgetting — Paradoxes of Memory and Collapse (/dispatch/price_of_forgetting)
+- 🧩 [The Price of Forgetting — Paradoxes of Memory and Collapse](/dispatch/price_of_forgetting)
   - Maxwell’s demon. Landauer’s principle. Black hole information loss. This essay revisits the most enduring paradoxes of irreversibility—and shows how each dissolves when memory is seen not as a thing, but as a structural constraint. What survives is what cannot be undone.
 
 - 🌀 [What’s the Difference Between Itness and Itchiness?](/dispatch/itness-vs-itchiness)
