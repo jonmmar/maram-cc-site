@@ -2,6 +2,7 @@
 title: What’s the Difference Between Itness and Itchiness?
 permalink: /reverie/itchiness.html
 description: A light, slightly itchy meditation on embodiment, coherence, and the feeling of “chi.”
+layout: default
 ---
 
 Some words are just too good not to notice.

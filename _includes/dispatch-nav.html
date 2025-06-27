@@ -1,0 +1,12 @@
+<nav class="dispatch-nav">
+  <p>
+    {% if page.nav.prev %}
+      <a href="{{ page.nav.prev }}">← Previous</a><br>
+    {% endif %}
+    <a href="/dispatch/">Back to Dispatch List</a><br>
+    {% if page.nav.next %}
+      <a href="{{ page.nav.next }}">Next →</a>
+    {% endif %}
+  </p>
+</nav>
+

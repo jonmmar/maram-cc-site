@@ -3,6 +3,7 @@ title: Summary of the Recursive Observation Series (Essays 0–3.5)
 description: An overview of Essays 0–3.5 in the Recursive Observation Series — from the origin of constraint and filtering to paradox collapse, memory, and the arrow of time. A ladder of structure emerges.
 date: 2025-06-27
 permalink: /dispatch/recursive-summary
+layout: default
 ---
 
 ## 🧬 Summary of Essays 0–3.5  

@@ -1,32 +1,33 @@
-<!-- Shared Head Block -->
-<title>{{ page.title | default: "Mysticism Demystified" }}</title>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8">
+<title>{{ page.title | append: " | Mysticism Demystified" | default: "Mysticism Demystified" }}</title>
 
-<!-- Basic Meta -->
-<meta name="description" content="{{ page.description | default: 'A rational exploration of mysticism, structure, and itness through recursive coherence.' }}" />
-<meta name="keywords" content="mysticism, identity, structure, perception, cognitive science, metaphysics, maram.cc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ page.description | default: 'Explorations of coherence, constraint, and perception. Essays from Mysticism Demystified.' }}">
+<meta name="author" content="Maram Project">
 
-<!-- OpenGraph -->
-<meta property="og:title" content="{{ page.title | default: 'Mysticism Demystified' }}" />
-<meta property="og:description" content="{{ page.description | default: 'Explore a structural path to reality—beginning with mysticism, ending in coherence.' }}" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://maram.cc{{ page.url }}" />
-<meta property="og:image" content="{{ page.image | default: 'https://maram.cc/assets/images/default-preview.jpg' }}" />
-{% if page.date %}
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
-  <meta property="og:updated_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}" />
-{% endif %}
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.title | default: 'Mysticism Demystified' }}">
+<meta property="og:description" content="{{ page.description | default: 'Explorations of coherence, constraint, and perception. Essays from Mysticism Demystified.' }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://maram.cc{{ page.url }}">
+<meta property="og:image" content="https://maram.cc/assets/og-default.jpg">
+<meta property="og:site_name" content="Mysticism Demystified">
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ page.title | default: 'Mysticism Demystified' }}" />
-<meta name="twitter:description" content="{{ page.description | default: 'Explore mysticism through the lens of recursive structure and cognitive science.' }}" />
-<meta name="twitter:image" content="{{ page.image | default: 'https://maram.cc/assets/images/default-preview.jpg' }}" />
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: 'Mysticism Demystified' }}">
+<meta name="twitter:description" content="{{ page.description | default: 'Explorations of coherence, constraint, and perception. Essays from Mysticism Demystified.' }}">
+<meta name="twitter:image" content="https://maram.cc/assets/og-default.jpg">
 
-<!-- Plausible Analytics -->
+<!-- Canonical URL -->
+<link rel="canonical" href="https://maram.cc{{ page.url }}" />
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="/favicon.png" />
+
+<!-- Analytics -->
 <script defer data-domain="maram.cc" src="https://plausible.io/js/script.js"></script>
 
-<!-- Optional Favicon -->
-<link rel="icon" href="/assets/favicon.ico" />
-<h1 style="display:none;">Mysticism Demystified — A Structural Journey Through Reality</h1>
+<!-- Hidden H1 for SEO -->
+<h1 style="display:none;">{{ page.title | default: "Mysticism Demystified" }}</h1>
+

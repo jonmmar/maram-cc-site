@@ -3,6 +3,7 @@ title: Recursive Observation Series Launch
 description: An evolving essay series on observation, structure, and recursive filtering. From constraint to coherence, we trace how reality shapes itself—before any mind appears.
 date: 2025-06-09
 permalink: /dispatch/recursive-observation-series
+layout: default
 ---
 
 What counts as an observation?
