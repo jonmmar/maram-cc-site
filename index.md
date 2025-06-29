@@ -63,13 +63,13 @@ Want to follow the core narrative from the ground up?
 ## 🔗 References & Sources
 
 Looking for sources, further reading, or the science behind the stories?  
-👉 [See the References →](/references.html)
+👉 [See the References →](/reference.html)
 
 ---
 
 ## 💬 Feedback & Community
 
-- [Send reflections, questions, or suggestions → Feedback](./feedback.html)
+- [Send reflections, questions, or suggestions → Feedback](/feedback.html)
 - [Subscribe for updates & new chapters →](./subscribe.html)
 
 ---
