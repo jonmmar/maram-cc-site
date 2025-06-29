@@ -4,74 +4,83 @@ title: Mysticism Demystified — Constraint-First Physics, Structural Memory, an
 description: Essays on perception, identity, and the structure of reality — rigorous, grounded, and free of highfalutin handwaving. Recursive reinforcement, the constraint arrow of time, and mysticism demystified by structure.
 image: /assets/images/default-preview.jpg
 ---
-Mysticism Demystified explores how structure, not story, gives rise to what we call real. If you’ve ever questioned perception, causality, or the strange persistence of consciousness, this project builds a structural path through the paradox. No mysticism. No handwaving. Just recursion, coherence, and constraint.
 
+# Welcome to Mysticism Demystified
+
+**Why does anything persist? Why do some things seem “real”—and others vanish like a dream?**
+
+This site is for the simply curious and the deeply skeptical alike.  
+If you’ve ever wondered what’s beneath science, philosophy, or even your own sense of “self,” you’re in good company here.
+
+We chase a bold question:  
 **What makes something real enough to count?**
 
-We follow that question across perception, identity, memory, and coherence—unpacking mysticism not as fantasy, but as a structural echo of what holds things together.
+Instead of mysticism or handwaving, you’ll find essays and experiments built on the logic of structure, constraint, and recursive persistence.  
+Think “physics meets philosophy,” but with puzzles, paradoxes, and practical clarity—never jargon for its own sake.
 
 ---
 
-## 🌀 Featured Chapter
+## 👋 New Here? Start With These
 
-### [Chapter 2 → Seeing Things That Aren’t There (And Missing What Is)](/chapters/chapter2.html)
+Not sure where to begin? Try one of the most accessible (and reader-favorite) essays:
 
-Blind spots. Phantom limbs. Consensus hallucinations.
+- 🗑️ [Garbage In, Garbage Out](/dispatch/garbage-in-garbage-out.html)  
+  *Why wisdom isn’t just intelligence, and how even brilliant minds go astray when the wrong assumptions slip in. (Recommended for skeptics and thinkers of all stripes.)*
 
-This chapter explores the mind’s uncanny power to invent edges, fill in gaps, and overwrite uncertainty with certainty.  
-What do we see that isn’t there—and what might we be missing that is?
+- 🦉 [Ratiocination, or Rationalization?](/dispatch/ratiocination_vs_rationalization.html)  
+  *A playful, sharp look at why cleverness is often our best tool for fooling ourselves—and what real insight requires instead.*
 
-🧠 [Read Chapter 2 preview →](/chapters/chapter2.html)
+- 👁️ [The Observer Was Never Missing](/dispatch/the_observer_was_never_missing.html)  
+  *Quantum weirdness, minus the mystical fog. How structure, not consciousness, explains what actually happens.*
 
----
-
-## 📘 Start from the Beginning?
-
-If you'd prefer to follow the arc from the first question:
-
-👉 [Chapter 1 preview → The Question That Won’t Stay Quiet](/chapters/chapter1.html)
+Or, if you’re feeling bold, jump right into a [recently popular essay →](/dispatch/price_of_forgetting.html)  
+*What’s the real cost of forgetting—and why does memory shape the universe itself?*
 
 ---
 
-## 📚 Chapters Index
+## 📘 Prefer a Story Arc?
 
-Want to explore more chapters, or see what’s next?
+Want to follow the core narrative from the ground up?
 
-📖 [Browse All Chapter previews →](/chapters/index.html)
+- 👉 [Start Chapter 1 preview: The Question That Won’t Stay Quiet](/chapters/chapter1.html)
+- Or dive into [Chapter 2: Seeing Things That Aren’t There (And Missing What Is)](/chapters/chapter2.html)  
+  *Blind spots, phantom limbs, and the mind’s power to invent reality.*
 
----
-
-## 📣 Dispatch
-
-Reflections, experiments, and paradox samplers from the world of structural itness.
-
-The book builds the framework — but **Dispatch** is where the side quests unfold.  
-Recent essays explore irreversibility, quantum trickery, and the cost of forgetting.
-
-🧩 [Start with: The Price of Forgetting →](/dispatch/price_of_forgetting.html)  
-📖 [Browse the full Dispatch →](/dispatch)
+- 📖 [Browse All Chapter Previews →](/chapters/index.html)
 
 ---
 
-## 🧠 References & Sources
+## 📣 Dispatch: Side Quests & Experiments
 
-Curious about the sources, paradoxes, and scientists we reference?
+**Dispatch** is where the side doors open—quick essays, paradoxes, and experiments for the structurally curious.
 
+- 🧩 [Browse the full Dispatch →](/dispatch)
+
+---
+
+## 🔗 References & Sources
+
+Looking for sources, further reading, or the science behind the stories?  
 👉 [See the References →](/references.html)
 
 ---
 
-## 📬 Stay in Touch
+## 💬 Feedback & Community
 
-- Send reflections or questions → [Feedback](./feedback.html)
-- Subscribe for updates and new chapters  
-🔔 [Subscribe](./subscribe.html)
+- [Send reflections, questions, or suggestions → Feedback](./feedback.html)
+- [Subscribe for updates & new chapters →](./subscribe.html)
 
 ---
 
-## Who is behind this?
+## 👤 About the Author
 
-**Jonathan Maram** is a physicist, engineer, and recursive thinker whose work spans from space systems to structural itness. His writing explores what makes something real—not just spiritually, but structurally.
+**Jonathan Maram** is a physicist, engineer, and recursive thinker whose work spans from space systems to structural itness.  
+He writes to clarify—not to mystify—what makes something real.
 
-🔎 [Learn more about the author →](/about)
+🔎 [Learn more about Jonathan →](/about)
+
+---
+
+*If you ever wondered what ties together quantum paradoxes, memory, identity, and the “realness” of reality, you’re in the right place. Welcome.*
+
 
