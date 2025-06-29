@@ -26,7 +26,7 @@ Think “physics meets philosophy,” but with puzzles, paradoxes, and practical
 
 Not sure where to begin? Try one of the most accessible (and reader-favorite) essays:
 
-- 🗑️ [Garbage In, Garbage Out](/dispatch/garbage_in_garbage-out.html)  
+- 🗑️ [Garbage In, Garbage Out](/dispatch/garbage_in_garbage_out.html)  
   *Why wisdom isn’t just intelligence, and how even brilliant minds go astray when the wrong assumptions slip in. (Recommended for skeptics and thinkers of all stripes.)*
 
 - 🦉 [Ratiocination, or Rationalization?](/dispatch/ratiocination_vs_rationalization.html)  
@@ -63,14 +63,14 @@ Want to follow the core narrative from the ground up?
 ## 🔗 References & Sources
 
 Looking for sources, further reading, or the science behind the stories?  
-👉 [See the References →](/reference.html)
+👉 [See the References →](/references)
 
 ---
 
 ## 💬 Feedback & Community
 
-- [Send reflections, questions, or suggestions → Feedback](/feedback.html)
-- [Subscribe for updates & new chapters →](./subscribe.html)
+- [Send reflections, questions, or suggestions → Feedback](/feedback)
+- [Subscribe for updates & new chapters →](/subscribe)
 
 ---
 
