@@ -49,6 +49,8 @@ The latest updates, reflections, and curiosities:
 
 - 🦉 [Ratiocination, or Rationalization?](/dispatch/ratiocination_vs_rationalization)
   - Why cleverness is not enough: the ancient and modern trap of intelligence turned to self-justification. Featuring Bacon, James, and recent cognitive science.
+- 🗑️ [Garbage In, Garbage Out](/dispatch/garbage-in-garbage-out)
+  - Wisdom begins not with clever reasoning, but with cleaner input. This essay explores how even the brightest minds are prone to error when unexamined assumptions sneak in—and why humility matters more than intellect.
   
   > **What’s next?**  
 > New features (some playful, some philosophical) are on the way. Stay tuned—and if you’re the site’s first mysterious subscriber, thank you for your curiosity.
