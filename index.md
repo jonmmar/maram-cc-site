@@ -33,7 +33,7 @@ Not sure where to begin? Try one of the most accessible (and reader-favorite) es
   *A playful, sharp look at why cleverness is often our best tool for fooling ourselves, and what real insight requires instead.*
 
 - 👁️ [The Principle of Constraint](/dispatch/the_principle_of_constraint.html)  
-  *the rungs on reality's ladder. Quantum weirdness, minus the mystical fog. How structure, not consciousness, explains what actually happens.*
+  *The rungs on reality's ladder. Quantum weirdness, minus the mystical fog. How structure, not consciousness, explains what actually happens.*
 
 Or, if you’re feeling bold, jump right into a [recently popular essay →](/dispatch/price_of_forgetting.html)  
 *What’s the real cost of forgetting, and why does memory shape the universe itself?*
