@@ -2,6 +2,7 @@
 title: About the Author — Jonathan Maram
 description: Jonathan Maram is the author of Mysticism Demystified and Realizations of Reality. A physicist-turned-writer exploring structural coherence, recursive modeling, and the architecture of what’s real.
 permalink: /about
+layout: default
 ---
 
 # About the Author
