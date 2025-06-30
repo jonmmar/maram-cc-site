@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Mysticism Demystified — Constraint-First Physics, Structural Memory, and Recursive Coherence
+layout: default
 description: Essays on perception, identity, and the structure of reality. Rigorous, grounded, and free of highfalutin handwaving. Recursive reinforcement, the constraint arrow of time, and mysticism demystified by structure.
 image: /assets/images/default-preview.jpg
 ---
